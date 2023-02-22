@@ -1,0 +1,19 @@
+*{
+    font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/203/641/original/elegant-black-and-gold-background-free-vector.jpg);
+}
+.main{
+    margin:auto;
+    border:1px solid #7C7A7A; 
+    width:50%;
+    text-align:left;
+    padding:30px;
+    background:#85c587;
+}
+table{
+    background-color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+}

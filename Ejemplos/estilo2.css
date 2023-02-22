@@ -1,0 +1,13 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
+    text-align: center;
+}
+table{
+    background-color: aliceblue;
+    margin: auto;
+}
+div{
+    margin: auto;
+    background-color: black;
+}

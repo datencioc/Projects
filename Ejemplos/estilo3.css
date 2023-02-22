@@ -1,0 +1,19 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/203/641/original/elegant-black-and-gold-background-free-vector.jpg);
+    text-align: center;
+    color: white;
+}
+h1{
+    color: white;
+
+}
+table{
+    border: 1;
+    border-radius: 2;
+    margin: auto;
+    margin-top: 5%;
+}
+input{
+    margin-top: 1%;
+}

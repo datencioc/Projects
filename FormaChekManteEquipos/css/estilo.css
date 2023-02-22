@@ -1,0 +1,144 @@
+*{
+    font-family: 'Rubik', sans-serif;
+}
+body{
+    color: black;
+}
+/*------------------divtitulo---------------*/
+div.titulo{
+    text-align: center;  
+}
+
+/*-----------------head tables----------------------------------*/
+thead.theadtab1{
+    text-align: center;
+    font-weight: bold;
+}
+thead.theadtab2{
+    text-align: center;
+    font-weight: bold;
+}
+thead.theadtab3{
+    text-align: center;
+}
+
+
+/**********************************************************************/
+label.titulotab3{
+    display: flex;
+    margin-left: 46%;
+    font-weight: bold;
+}
+
+
+
+/*--------------------tablas-------------------------------------*/
+table.tablen1{
+    border-style: solid;
+    text-align: left;
+    margin: auto;
+    border-color: black;
+    border-collapse: separate;
+    border-spacing: 10;
+    border-radius:10px;
+}
+table.tablen2{
+    text-align: left;
+    margin: auto;
+    border-collapse: separate;
+    border-radius:10px;
+}
+table.tablen3{
+    text-align: center;
+    margin: auto;
+    border-collapse: separate;
+    border-radius: 10px;
+}
+/*-----------------------------inputs---------------------------------*/
+input.inputtab1{
+    margin: auto;
+    display: flex;
+    width: 600px;
+    border-style: solid;
+    border-radius: 3px;
+}
+input.inputtab3{
+    margin: auto;
+    display: flex;
+    width: 400px;
+    border-style: solid;
+    border-radius: 3px;
+}
+input.btn_enviar{
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: flex;
+}
+
+/*------------------------textarea end-------------------------*/
+div.observ_textarea{
+    display: flex;
+    align-items: center;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-top: none;
+    width: 900px;
+    height: 200px;
+    margin: auto;
+}
+label.observ{
+    display: flex;
+    margin-inline: auto;
+}
+textarea.observ_acc{
+    margin: auto;
+    height: 150px;
+    offset-distance: 500px;
+}
+
+/* ----------------text area general------------------- */
+textarea{
+    width: 700px;
+}
+
+/* ---------------------caja de firmas---------------------- */
+div.caja_firma{
+    border-style: solid;
+    border-color: black;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: center;
+    height: 225px;
+    width: 900px;
+    margin: auto;
+}
+
+div.box_firma{
+    width: 180px;
+    height: 100px;
+    display:block ;
+    border-style: solid;
+    border-radius: 2px;
+}
+div.box_firmarec{
+    margin: auto;
+    width: 180px;
+    height: 100px;
+    display: flex;
+    border-style: solid;
+    align-items: center;
+    border-radius: 2px;
+}
+div.div_firma{
+    margin: auto;
+    text-align: center;
+}
+div.div_recepfirma{
+    margin: auto;
+    text-align: center;
+}
